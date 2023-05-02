@@ -1,5 +1,5 @@
 # No1seAutoSQL
-## This is a Python script that is designed to search for and exploit XSS vulnerabilities on websites.
+## This is a Python script that is designed to search for and exploit SQL injection vulnerabilities on websites.
 
 # The script in action: 
 
